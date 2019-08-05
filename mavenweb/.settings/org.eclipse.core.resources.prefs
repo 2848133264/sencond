@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//WebContent/Project/htmlF/login.jsp=UTF-8
+encoding//src/main/java/mavenweb/DBUtil/DBUtils.java=UTF-8
+encoding//src/main/java/mavenweb/DBUtil/c3p0_DBUtils.java=UTF-8
+encoding//src/main/java/servletP=UTF-8
+encoding//src/main/java/servletP/projectservlet/UpdateUserServlet.java=GBK
+encoding//src/main/java/servletP/projectservlet/delectUserServlet.java=UTF-8
+encoding//src/main/java/servletP/projectservlet/deleteself.java=UTF-8
+encoding//src/main/java/servletP/projectservlet/loginServlet.java=GBK
+encoding//src/main/java/servletP/projectservlet/loginoutServlet.java=UTF-8
+encoding//src/main/java/servletP/projectservlet/regesterServlet.java=GBK
+encoding//src/main/resources/log4j.properties=UTF-8
+encoding/<project>=UTF-8

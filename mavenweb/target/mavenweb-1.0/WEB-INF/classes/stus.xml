@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE stus PUBLIC "//UNKNOWN" "stu.dtd">
+<!-- 生成一个dtd文件 ,再去引用就行 -->
+<!--  初始化数据。-->
+<stus>
+	<stu id="1000">
+		<id>1000</id>
+		<name>张三</name>
+		<age>18</age>
+		<sex>男</sex>
+	</stu>
+	<stu id="1002">
+		<id>1002</id>
+		<name>李四</name>
+		<age>18</age>
+		<sex>男</sex>
+	</stu>
+</stus>

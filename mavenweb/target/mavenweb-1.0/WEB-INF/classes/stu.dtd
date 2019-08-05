@@ -1,0 +1,15 @@
+<!ELEMENT stus (stu+)> 
+<!-- 可以 + 号，可以 *（可以写可以不写） -->
+<!ELEMENT stu (id*,name,age?,sex)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ATTLIST stu id CDATA #IMPLIED>
+<!-- 可以给这个stu 添加一个id的属性  -->
+
+<!ELEMENT score (forms*)>
+<!ELEMENT forms (idd,subject,grades)>
+<!ELEMENT idd (#PCDATA)>
+<!ELEMENT subject (#PCDATA)>
+<!ELEMENT grades (#PCDATA)>
